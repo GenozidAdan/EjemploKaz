@@ -1,0 +1,14 @@
+.text-blue {
+    color: blue;
+  }
+
+  .text-orange {
+    color: orange;
+    text-decoration: none;
+  }
+
+  .text-orange:hover {
+    text-decoration: underline;
+  }
+
+
